@@ -1,0 +1,6 @@
+.floatingBtn {
+  position: "absolute";
+  float: right;
+  bottom: -33rem;
+  right: 2rem;
+}
